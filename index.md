@@ -1,10 +1,9 @@
 ---
 layout: 
-title: Hello World!
+title: Olá Mundo!
 tagline:
 ---
 {% include JB/setup %}
-
-## Em construção 
+{% include assets/test/css/style.css %}
 
 ![Aguarde](http://cinemaevideo.com/cinema/wp-content/uploads/aguarde.jpg){:class="img-responsive"}
