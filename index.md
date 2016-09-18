@@ -1,8 +1,3 @@
----
-layout: page
-title: Hello World!
-tagline: Supporting tagline
----
-{% include JB/setup %}
+## Em construção 
 
-## Hello World
+![Aguarde](http://cinemaevideo.com/cinema/wp-content/uploads/aguarde.jpg){:class="img-responsive"}
